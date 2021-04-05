@@ -1,4 +1,4 @@
-# Prácticas y Trabajos Individuales
+# Análisis de Procesos II
 
 Este repositorio contiene los códigos y archivos generados como parte del curso de Análisis de Procesos II, del semestre I del año 2021.
 
