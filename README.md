@@ -9,3 +9,7 @@ Contiene los códigos y archivos de COMSOL utilizados para la solución de los t
 ## Prácticas
 
 Contiene los códigos y archivos utilizados para realizar las correspondientes prácticas del curso.
+
+## Proyecto Grupal
+
+Contiene un Jupyter Notebook con un desarrollo completo teórico y en código del proyecto grupal del curso, con los ajustes que corresponden y diagnósticos residuales de los modelos, así como las gráficas obtenidas de estos análisis.
