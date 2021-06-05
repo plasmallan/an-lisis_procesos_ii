@@ -2,6 +2,8 @@
 
 Este repositorio contiene los códigos y archivos generados como parte del curso de Análisis de Procesos II, del semestre I del año 2021.
 
+**Disclaimer:** cualquiera puede utilizar estos códigos siempre y cuando no sea para la solución de las pruebas cortas, trabajos individuales o proyectos grupales del curso de procesos del semestre I del año 2021, basta con sólo adjuntar el link del repositorio.
+
 ## Trabajos Individuales
 
 Contiene los códigos y archivos de COMSOL utilizados para la solución de los tres trabajos individuales del curso.
