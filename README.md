@@ -13,3 +13,7 @@ Contiene los códigos y archivos utilizados para realizar las correspondientes p
 ## Proyecto Grupal
 
 Contiene un Jupyter Notebook con un desarrollo completo teórico y en código del proyecto grupal del curso, con los ajustes que corresponden y diagnósticos residuales de los modelos, así como las gráficas obtenidas de estos análisis.
+
+## Pruebas cortas
+
+Contiene los archivos de datos y desarrollo de las pruebas cortas del curso.
